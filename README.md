@@ -11,7 +11,7 @@ This project is a modern, responsive "Contact Us" page built using React. It's d
 
 ## Project Image
 
-<img src="https://github.com/yogendra105/One-Oath-Project/blob/main/project-Snapshot.png">
+<img src="https://github.com/sundramsharma1/Manya-Oath-One-Projects/blob/main/Untitled.jpg">
 
 ## Key Features
 
