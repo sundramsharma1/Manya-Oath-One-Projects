@@ -30,7 +30,7 @@ This project is a modern, responsive "Contact Us" page built using React. It's d
  - For Bootstrap = npm i bootstrap
  - For local storage = npm i use-local-storage
  - For Vitals = npm i web-vitals
- -  
+   
  # Start the server
  - npm start
    
