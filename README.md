@@ -15,10 +15,17 @@ This project is a modern, responsive "Contact Us" page built using React. It's d
 
 ## Key Features
 
-- Responsive Design
-- Form Validation 
-- Form Handeling 
-- Accessibility
+- Contemporary Contact Page Design : The contact page's sleek, user-friendly design guarantees that consumers will have a simple, straightforward experience.
+  Form Fields: Provides easy connection between users and the website by including necessary form fields like Name, Email, Phone, and Message.
+  Data Integrity Validation: To guarantee data integrity and improve user experience, strong validation procedures are put in place for every form field.
+
+- Submit Button : Adds a submit button for easy form data submission, giving users a simple way to communicate.
+- Google Sheets Integration : For effective data gathering, form submissions can be easily integrated with a Google Sheet by using the Google Sheets API.           
+- Design Creativity : To improve user engagement, integrate dynamic animations or transitions to foster design creativity.
+  In order to serve a wide range of users and improve accessibility, responsive design makes sure that the design is adaptable to different screen sizes and 
+  devices. Extensive documentation is provided to assist developers in the setup, customisation, and integration phases, making it easier to comprehend and apply.
+- Deployment on Netlify : The project is deployed on Netlify to facilitate easy access and demonstration, giving users and developers a real-time environment in 
+  which to interact with the dynamic contact page.
 
 ## Setup
  # Get The Code
@@ -35,5 +42,6 @@ This project is a modern, responsive "Contact Us" page built using React. It's d
  - npm start
    
 ## Feel free to ask :- manyamalhotra204@gmail.com
+# Feel free to fork this project, submit issues, or contribute through pull requests. Your feedback and contributions are highly appreciated!
 
 ### Thanks👍
