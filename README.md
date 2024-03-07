@@ -25,6 +25,12 @@ This project is a modern, responsive "Contact Us" page built using React. It's d
  - git clone https://github.com/yogendra105/One-Oath-Project.git
  # Download Node Modules
  - npm i
+ # Install Dependencies
+ - For Google Map = npm i google-map-react
+ - For Bootstrap = npm i bootstrap
+ - For local storage = npm i use-local-storage
+ - For Vitals = npm i web-vitals
+ -  
  # Start the server
  - npm start
    
