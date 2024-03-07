@@ -22,7 +22,7 @@ This project is a modern, responsive "Contact Us" page built using React. It's d
 
 ## Setup
  # Get The Code
- - git clone https://github.com/yogendra105/One-Oath-Project.git
+ - git clone https://github.com/sundramsharma1/Manya-Oath-One-Projects.git
  # Download Node Modules
  - npm i
  # Install Dependencies
